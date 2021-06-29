@@ -1,4 +1,4 @@
-Simple project ideas you can build with [OutSystems](https://outsyste.ms/community) to strengthen your skills.
+## Simple project ideas you can build with [OutSystems](https://outsyste.ms/community) to strengthen your skills.
 
 | Project Name                                 |                    |
 |----------------------------------------------|--------------------|
